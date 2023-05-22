@@ -1,0 +1,29 @@
+
+.searchContainer {
+    
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .searchInput {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+   
+  }
+  
+  .resultsContainer {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .resultsContainer li {
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .resultsContainer li:hover {
+    background-color: lightgray;
+  }
+  
